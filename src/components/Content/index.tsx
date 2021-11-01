@@ -9,4 +9,4 @@ const Content:React.FC = () => {
   )
 }
 
-export default Content
+export default Content;
